@@ -2,6 +2,8 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeopia&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Today+%26+Total&edge_flat=false"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seopia&show_icons=true&theme=transparent) 
+<br/>내 외부 저장장치(블로그)<br/>
+https://roseandg1324.tistory.com/
 
 Software Engineering major
 ## 💻Using Languages
