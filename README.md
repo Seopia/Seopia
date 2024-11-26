@@ -1,4 +1,4 @@
-### 평생 개발만 하고 싶은 중증 개발 중독자입니다.
+### 코딩 중독자
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeopia&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Today+%26+Total&edge_flat=false"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seopia&show_icons=true&theme=transparent) 
