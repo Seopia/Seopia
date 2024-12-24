@@ -15,6 +15,7 @@ https://www.seopia.online
 ## 🏆Awards
 
 ▶ 2024.02.29 하이미디어 아카데미 웹 개발 프로젝트 최우수상
+▶ 2024.12.24 백석대학교 SMART IT 창작물 경진대회 장려상
 
 ## 📚Tech Stack
 
