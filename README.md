@@ -1,5 +1,6 @@
 ### 코딩 중독자
 Software Engineering major<br/><br/>
+DISTRIBUTED COMPUTING LAB 학부연구원 Web dev 2025-03 ~ <br/><br/>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeopia&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Today+%26+Total&edge_flat=false"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seopia&show_icons=true&theme=transparent) 
@@ -15,6 +16,7 @@ https://www.seopia.online
 ## 🏆Awards
 
 ▶ 2024.02.29 하이미디어 아카데미 웹 개발 프로젝트 최우수상
+ 
 ▶ 2024.12.24 백석대학교 SMART IT 창작물 경진대회 장려상
 
 ## 📚Tech Stack
