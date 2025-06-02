@@ -1,18 +1,14 @@
 ### 코딩 중독자
 Software Engineering major<br/><br/>
 DISTRIBUTED COMPUTING LAB 학부연구원 Web dev 2025-03 ~ <br/><br/>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeopia&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Today+%26+Total&edge_flat=false"/></a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seopia&show_icons=true&theme=transparent) 
+## 💻Using Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seopia)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <br/>내 외부 저장장치(블로그)<br/>
 https://roseandg1324.tistory.com/<br/>
 <br/>배포 중인 웹사이트<br/>
 https://www.seopia.online
 
-
-## 💻Using Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seopia)](https://github.com/anuraghazra/github-readme-stats)
 ## 🏆Awards
 
 ▶ 2024.02.29 하이미디어 아카데미 웹 개발 프로젝트 최우수상
@@ -59,6 +55,11 @@ https://www.seopia.online
 ### Server
 <div style={display:flex; gap:50px;}>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+</div>
+
+### AI
+<div>
+ <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </div>
 
 #### Interested in
