@@ -7,7 +7,7 @@ DISTRIBUTED COMPUTING LAB 학부연구원 Web dev 2025-03 ~ <br/><br/>
 <br/>내 외부 저장장치(블로그)<br/>
 https://roseandg1324.tistory.com/<br/>
 <br/>배포 중인 웹사이트<br/>
-https://www.seopia.online
+https://www.react.ai.kr
 
 ## 🏆Awards
 
